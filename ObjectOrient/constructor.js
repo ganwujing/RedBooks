@@ -10,6 +10,8 @@ function sayName() {
 var person1 = new Person("xj", 12);
 person1.sayName();
 
+
+
 /**
  * 1.new的时候发生了什么
  * 1.1  创建了一个新对象
